@@ -297,6 +297,9 @@ packages:
         - unagi-chan
         - type-errors
 
+    "Michael Bock <no-day@posteo.net> @thought2":
+        - fields-and-cases
+
     "Matej Niznik <matten@tuta.io> @TheMatten":
         - loopbreaker
 
